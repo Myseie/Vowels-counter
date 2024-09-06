@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Vowels counter\bin\Debug\net8.0\Vowels counter.exe
+D:\Programmering\Programmering\Vowels counter\bin\Debug\net8.0\Vowels counter.deps.json
+D:\Programmering\Programmering\Vowels counter\bin\Debug\net8.0\Vowels counter.runtimeconfig.json
+D:\Programmering\Programmering\Vowels counter\bin\Debug\net8.0\Vowels counter.dll
+D:\Programmering\Programmering\Vowels counter\bin\Debug\net8.0\Vowels counter.pdb
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.AssemblyInfo.cs
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.dll
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\refint\Vowels counter.dll
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.pdb
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\Vowels counter.genruntimeconfig.cache
+D:\Programmering\Programmering\Vowels counter\obj\Debug\net8.0\ref\Vowels counter.dll
